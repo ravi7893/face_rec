@@ -1,0 +1,4 @@
+pip install opency-python
+pip install face
+pip install opencv-contrib-python
+pip install pillow
